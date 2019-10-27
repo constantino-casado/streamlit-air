@@ -1,0 +1,17 @@
+id,magnitud,formula,unidad,tecnica
+01,Dióxido de Azufre,SO2,μg/m3,Fluorescencia ultravioleta 
+06,Monóxido de Carbono,CO,mg/m3,Absorción infrarroja 
+07,Monóxido de Nitrógeno,NO,μg/m3,Quimioluminiscencia 
+08,Dióxido de Nitrógeno,NO2,μg/m3,Id. 
+09,Partículas < 2.5 μm,PM2.5,μg/m3,Microbalanza 
+10,Partículas < 10 μm,PM10,μg/m3,Id. 
+12,Óxidos de Nitrógeno,NOx,μg/m3,Quimioluminiscencia 
+14,Ozono,O3,μg/m3,Absorción ultravioleta 
+20,Tolueno,TOL,μg/m3,Cromatografía de gases 
+30,Benceno,BEN,μg/m3,Id. 
+35,Etilbenceno,EBE,μg/m3,Id. 
+37,Metaxileno,MXY,μg/m3,Id. 
+38,Paraxileno,PXY,μg/m3,Id. 
+39,Ortoxileno,OXY,μg/m3,Id. 
+42,Hidrocarburos totales (hexano),TCH,mg/m3,Ionización de llama 
+43,Metano,CH4,mg/m3,Id.
