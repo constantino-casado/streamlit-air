@@ -6,6 +6,11 @@ To run the app, after cloning the repo, run in the cloned directory:
 ````cli 
 streamlit run contaminacion
 ````
+## The Data
+
+The real time data is downloaded directly from "Ayuntamiento de Madrid" site. 
+
+Both CSV files have the related metrics interpretation and the information of the measurement stations. 
 
 ## Related sources
 
